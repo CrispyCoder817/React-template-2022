@@ -1,3 +1,8 @@
+#How to effectively use Repo
+
+Clone this repo into your proflie and download it. This makes it so much easier to have a repo up and ready to go so you can focus more on your code than you do setup.
+If you can't tell I hate setup when I'm trying to make short work of complex solutions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
