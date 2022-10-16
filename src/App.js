@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Version from "./Components/version";
 
 function App() {
   return (
@@ -12,7 +11,6 @@ function App() {
           <br></br>
           Please refer to the documentation below for offical documentation.
           <br></br>
-          <Version/>
         </p>
         <a
           className="App-link"
